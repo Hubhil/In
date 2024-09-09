@@ -1,0 +1,31 @@
+Crée une belle interface de soins infirmiers du service de neurologie du CHU Bogodogo avec les fonctionnalités suivantes qui doivent être liées les unes autres :
+
+1-Enregistrer les patients par leur nom, prénoms, âge, sexe, diagnostic ( AVCI, AVCH Epilepsie,  Migraine, Encéphalopathie, Démence , Neuropathie diabétique).
+La date d'entrée et la salle d'hospitalisation (1 à 10)
+
+2-Plan de soins
+Enregistrer dates, médicaments, heures ,exécutant 
+Créer un bouton ajouter et  supprimer pour les médicaments, un bouton ajouter et supprimer  des heures pour un même médicament.
+Permettre de visualiser le plan de soins de chaque patient en sélectionnant sa salle et de   cocher les soins faits devant l'heure du soin.
+Permettre d'enregistrer les patients ayant une voie veineuse à reprendre et de les visualiser.
+
+3- Administration des soins 
+Permettre pour chaque heure de visualiser les patients qui doivent recevoir un soin 
+
+4-Constantes
+Enregistrer poids, température,pouls, tension artérielle, fréquence cardiaque, saturation en oxygène de chaque patient.
+Mettre en exergue les patients ayant de mauvaises constantes selon les normes de l'OMS en affichant le patient et les constantes en cause.
+
+5.Rapports
+Générer un rapport pour chaque patient (  nom, prénoms, âge, sexe, diagnostic,  dates  soins, constantes et soins )
+
+6-Sortie
+Enregistrer les patients  sortis ( guéris, décédés, transférés, SCAM, SSAM)
+
+7- Statistiques 
+.Générer des statistiques journalières sur les patients enregistrés, les patients sortis ( guéris, décédés, transférés, SCAM, SSAM).
+Le nombre de soins faits.
+.Générer des statistiques mensuelles sur le nombre des patients hospitalisés répartis en âge, sexe, diagnostic, guéris, décédés, transférés, SCAM, SSAM et nombre de soins faits .
+
+8- Exportation et partage de données 
+Permettre d'exporter et de partager les données de l'interface.
